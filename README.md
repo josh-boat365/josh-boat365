@@ -3,7 +3,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josh-boat365&label=Profile%20views&color=0e75b6&style=flat" alt="josh-boat365" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kwame_kay_" target="blank"><img src="https://img.shields.io/twitter/follow/kwame_kay_?logo=twitter&style=for-the-badge" alt="kwame_kay_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/codeflix365" target="blank"><img src="https://img.shields.io/twitter/follow/kwame_kay_?logo=twitter&style=for-the-badge" alt="kwame_kay_" /></a> </p>
   <img src="./gh flag.png" height=50px style="float:right" alt="Ghana-flag">
 </p>
 
