@@ -1,5 +1,5 @@
-Hi 👋 My name is Joshua Nyarko Boateng
-======================================
+Hi 👋 My name is Joshua Nyarko Boateng 👨🏾‍💻
+==========================================
 
 Frontend Web Developer/ Data Scientist
 --------------------------------------
