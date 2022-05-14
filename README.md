@@ -10,7 +10,7 @@ I am a passionate software engineer with two years of experience in frontend web
 * 🖥️  See my portfolio at [Linkedin](http://linkedin.com/in/josh-boat)
 * ✉️  You can contact me at [https://twitter.com/codeflix365](mailto:https://twitter.com/codeflix365)
 * 🚀  I'm currently working on [AQMS - Alumni Questionnaire Management System.](http://github.com/josh-boat365/aqms)
-* 🧠  I'm learning React
+* 🧠  I'm learning Frontend Developement -> Backend Development.
 * 🤝  I'm open to collaborating on Web development projects.
 * ⚡  Designing is my super-power
 
