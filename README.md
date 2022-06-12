@@ -1,8 +1,8 @@
 Hi 👋 My name is Joshua Nyarko Boateng 👨🏾‍💻
 ==========================================
 
-Frontend Web Developer/ Data Scientist
---------------------------------------
+Frontend Web Developer/ Data Scientist/ ML Enthusiast
+-----------------------------------------------------
 
 I am a passionate software engineer with two years of experience in frontend web development with HTML, CSS, Javascript and Bootstrap. I have also learnt how to administer databases with MySQL using PHP. I have developed interest in Data Science using Python. I love to learn and share my experiences. Due to the huge gap between academia and the tech industry, I am researching on how to solve that problem through a platform that will be opened to mentorships .
 
