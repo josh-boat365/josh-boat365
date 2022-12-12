@@ -4,9 +4,8 @@ Hi 👋 My name is Joshua Nyarko Boateng 👨🏾‍💻
 Frontend Web Developer/ Data Scientist/ ML Enthusiast
 -----------------------------------------------------
 
-I am a passionate software engineer with experience in frontend web development with HTML, CSS, Javascript, Bootstrap and Laravel. I have also
-experience with MySQL database using PHP. I love to learn and share my experiences. Due to the huge gap between academia and the tech industry, 
-I am researching on how to solve that problem through a platform that will be opened to mentorships [CasvaLabs - A Website for Mentorship.](http://github.com/josh-boat365/casvalabs) .
+I am a versatile software engineer with frontend (HTML, CSS, Bootstrap, Sass, Javascript) as my strong skill set. I Design with Figma. I am currenlty adding React-Typescript and Tailwindcss to my frontend skills. I have experience developing fullstack applications with Laravel. I love writing scripts with Python. I have knowledge in PHP, Java, Data science, Flask, MySQL, SQLITE. I love Mentoring newbies and taking Mentorship from seniors. Due to the huge gap between academia and the tech industry, 
+I am researching on how to solve that problem through a platform that will be opened to mentorships [CasvaLabs - A Website for Mentorship.](http://github.com/josh-boat365/casvalabs) with the aim of encouraging/ introducing paired programming in this part of the world 🌍(Ghana).
 
 * 🌍  I'm based in Amasaman - Accra, Ghana
 * 🖥️  See my portfolio at [Linkedin](http://linkedin.com/in/josh-boat)
