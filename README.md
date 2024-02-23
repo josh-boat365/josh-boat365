@@ -15,7 +15,7 @@ I am researching on how to solve that problem through a platform that will be op
 * 🤝  I'm open to collaborating on Web development projects.
 * ⚡  Helping others with fundamentals in web development is my super power.
 
-<a href="https://www.twitter.com/codeflix365" target="_blank" rel="noreferrer"><img
+<a href="https://x.com/codeflix365" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/codeflix365?logo=twitter&style=for-the-badge&color=facc15&labelColor=1c1917"
 /></a><a href="https://www.github.com/josh-boat365" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/josh-boat365?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
