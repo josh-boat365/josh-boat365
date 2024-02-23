@@ -1,7 +1,7 @@
 Hi 👋 My name is Joshua Nyarko Boateng 👨🏾‍💻
 ==========================================
 
-Frontend Web Developer/ Data Scientist/ ML Enthusiast
+I am a Fullstack Laravel Developer
 -----------------------------------------------------
 
 I am a versatile software engineer with frontend (HTML, CSS, Bootstrap, Sass, Javascript) as my strong skill set. I Design with Figma. I am currenlty adding React-Typescript and Tailwindcss to my frontend skills. I have experience developing fullstack applications with Laravel. I love writing scripts with Python. I have knowledge in PHP, Java, Data science, Flask, MySQL, SQLITE. I love Mentoring newbies and taking Mentorship from seniors. Due to the huge gap between academia and the tech industry, 
