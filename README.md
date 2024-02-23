@@ -9,9 +9,9 @@ I am researching on how to solve that problem through a platform that will be op
 
 * 🌍  I'm based in Amasaman - Accra, Ghana
 * 🖥️  See my portfolio at [Linkedin](http://linkedin.com/in/josh-boat)
-* ✉️  You can contact me at [https://twitter.com/codeflix365](mailto:https://twitter.com/codeflix365)
-* 🚀  I'm currently working on my final year project [CasvaLabs - A Website for Mentorship.](http://github.com/josh-boat365/casvalabs)
-* 🧠  I'm learning Frontend Developement -> Backend Development.
+* ✉️  You can contact me at [https://twitter.com/codeflix365](https://twitter.com/codeflix365)
+* 🚀  I'm currently working on A Hospitality Management System [Hoteratus](https://csa.trypid.com/)
+* 🧠  I'm learning React/Typescript -> I'm improving my Backend Development Skills with Laravel.
 * 🤝  I'm open to collaborating on Web development projects.
 * ⚡  Helping others with fundamentals in web development is my super power.
 
