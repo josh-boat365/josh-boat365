@@ -10,7 +10,7 @@ I am researching on how to solve that problem through a platform that will be op
 * 🌍  I'm based in Amasaman - Accra, Ghana
 * 🖥️  See my portfolio at [Linkedin](http://linkedin.com/in/josh-boat)
 * ✉️  You can contact me at [https://twitter.com/codeflix365](https://twitter.com/codeflix365)
-* 🚀  I'm currently working on A Hospitality Management System [Hoteratus](https://csa.trypid.com/)
+* 🚀  I'm currently a fullstack developer building systems and automating processes with laravel
 * 🧠  I'm learning React/Typescript -> I'm improving my Backend Development Skills with Laravel.
 * 🤝  I'm open to collaborating on Web development projects.
 * ⚡  Helping others with fundamentals in web development is my super power.
