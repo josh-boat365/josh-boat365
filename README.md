@@ -1,47 +1,103 @@
-Hi 👋 My name is Joshua Nyarko Boateng 👨🏾‍💻
-==========================================
+# Hi 👋, I'm Joshua Nyarko Boateng
 
-I am a Fullstack Developer
------------------------------------------------------
+## 💻 Full Stack Software Engineer
 
-I am a versatile software engineer with frontend (HTML, CSS, Bootstrap, Sass, Javascript) as my strong skill set. I Design with Figma. I am currenlty adding React-Typescript and Tailwindcss to my frontend skills. I have experience developing fullstack applications with Laravel. I love writing scripts with Python. I have knowledge in PHP, Java, Data science, Flask, MySQL, SQLITE. I love Mentoring newbies and taking Mentorship from seniors. Due to the huge gap between academia and the tech industry, 
-I am researching on how to solve that problem through a platform that will be opened to mentorships [CasvaLabs - A Website for Mentorship.](http://github.com/josh-boat365/casvalabs) with the aim of encouraging/ introducing paired programming in this part of the world 🌍(Ghana).
+<div align="center">
 
-* 🌍  I'm based in Amasaman - Accra, Ghana
-* 🖥️  See my portfolio at [Linkedin](http://linkedin.com/in/josh-boat)
-* ✉️  You can contact me at [https://twitter.com/codeflix365](https://twitter.com/codeflix365)
-* 🚀  I'm currently a fullstack developer building systems and automating processes with laravel
-* 🧠  I'm learning React/Typescript -> I'm improving my Backend Development Skills with Laravel.
-* 🤝  I'm open to collaborating on Web development projects.
-* ⚡  Helping others with fundamentals in web development is my super power.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-josh--boat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josh-boat)
+[![Twitter](https://img.shields.io/badge/Twitter-codeflix365-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codeflix365)
+[![GitHub](https://img.shields.io/badge/GitHub-josh--boat365-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josh-boat365)
+[![Email](https://img.shields.io/badge/Email-kwame.kay365%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kwame.kay365@gmail.com)
 
-<a href="https://x.com/codeflix365" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/codeflix365?logo=twitter&style=for-the-badge&color=facc15&labelColor=1c1917"
-/></a><a href="https://www.github.com/josh-boat365" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/josh-boat365?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
+</div>
 
-### 👨🏾‍💻 TechStack 🚀
+---
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/sass-%2338B2AC.svg?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Flask](https://img.shields.io/badge/flask-%2320232a.svg?style=for-the-badge&logo=flask&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-%23593d88.svg?style=for-the-badge&logo=python&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23404d59.svg?style=for-the-badge&logo=laravel&logoColor=%2361DAFB)
-![Figma](https://img.shields.io/badge/figma-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+🚀 **3+ years** of experience building impactful web applications | Currently **IT Officer** at **Best Point Savings & Loans**
+
+🌍 Based in **Amasaman, Accra, Ghana** | 👨‍🏫 **Mentoring** tech newcomers through [CasvaLabs](https://github.com/josh-boat365/casvalabs)
+
+⚡ Passionate about **Laravel**, **Vue.js**, **Python** automation, and bridging the gap between academia and industry
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Backend**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Frontend**  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+**Tools & Database**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-%23563D7C.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![VSCode](https://img.shields.io/badge/vscode-%23563D7C.svg?style=for-the-badge&logo=vscode&logoColor=green)
 
-### Socials 📣
+**AI Tools**  
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-1E40AF?style=for-the-badge&logo=ai&logoColor=white)
 
-<p align="left"> <a href="https://www.github.com/josh-boat365" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/codeflix365" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/josh-boat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13979990/joshua-nyarko-boateng" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.x.com/codeflix365" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@casvalabs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+</div>
 
+---
 
+## 📊 GitHub Stats
 
+<div align="center">
 
+![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josh-boat365&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josh-boat365&layout=compact&theme=radical&hide_border=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josh-boat365&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🚀 What I'm Up To
+
+- 🔨 Building internal systems for **500+ employees** at Best Point Savings & Loans
+- 🧠 Learning **React/TypeScript** and advanced **Laravel** features  
+- 🤝 Mentoring developers through [**CasvaLabs**](https://github.com/josh-boat365/casvalabs)
+- 🎯 Open to collaborating on **web development projects**
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+<a href="https://linkedin.com/in/josh-boat"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/codeflix365"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+<a href="https://instagram.com/codeflix365"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://youtube.com/@casvalabs"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/13979990/joshua-nyarko-boateng"><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"/></a>
+</p>
+
+---
+
+<div align="center">
+
+**"Helping others with fundamentals in web development is my superpower"** ⚡
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=josh-boat365.josh-boat365&left_color=black&right_color=orange)
+
+</div>
